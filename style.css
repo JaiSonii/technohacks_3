@@ -1,0 +1,58 @@
+.Intro{
+    background-color: #78C1F3;
+}
+
+
+.Intro h1{
+    color: #E2F6CA;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: bold;
+}
+.Intro p{
+    color: #E2F6CA;
+    font-family: 'Josefin Slab', serif;
+}
+
+.desc h3{
+    text-align: center;
+    color: #78C1F3;
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: bold;
+    
+  }
+  
+  .desc p{
+    text-align: center;
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+  }
+  .desc img{
+    border-radius: 50%;
+    height: 100px;
+    width: auto;
+  }
+
+  .About{
+    background-color: #F8FDCF;
+  }
+
+  .footer{
+    background-color: #F8FDCF;
+  }
+
+
+  .footer span{
+    font-family: 'Josefin Slab', serif;
+    font-weight: bold;
+  }
+
+  .nav-bar{
+    background-color: #78C1F3;
+  }
+  .nav-link{
+    color: #F8FDCF;
+  }
+
+  .navbar-brand{
+    color: #F8FDCF;
+  }
